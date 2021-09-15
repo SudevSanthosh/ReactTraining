@@ -1,0 +1,117 @@
+.facebook-container{
+    margin-left: 14%;
+    margin-top: 8%;
+    height: 400px;
+    width: 80%;
+
+}
+.facebook{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 400%;
+    color: 	#0652DD;
+    font-weight: bold;
+    margin: auto;
+    margin-top: 10%;
+    padding-top: 130px;    
+}
+.facebook-p
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 200%;
+    color: black;
+    font-weight: 200;
+    margin: auto;
+    text-align:left
+    
+}
+.login-box
+{
+    height: 400px;
+    width: 400px;
+    background-color:white;
+    position: absolute;
+    right: 15%;
+    top:20%;
+    border-radius: 12px;
+    box-shadow: 0 0 18px rgba(0, 0, 0, 0.25);
+    
+}
+.text-box{
+    width: 90%;
+    height: 40px;
+    margin: 8px 0;
+    margin-top: 8.5%;
+    margin-left: 4%;
+    display: inline-block;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 120%;
+    
+}
+.text-box:focus {
+    
+    border: 1px solid #0652DD;
+}
+.login-button{
+    width: 90%;
+    height: 40px;
+    margin: 8px 0;
+    margin-top: 8.5%;
+    margin-left: 4%;
+    border-radius: 7px;
+    background-color: #0652DD;
+    border:none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 120%;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+.login-button:hover{
+    background-color:#0984e3;
+}
+.forgot-password{
+    
+    color:#0984e3;
+    text-decoration: none;
+    margin-left: 30%;
+}
+.forgot-password:hover{
+    color: #353b48;
+    text-decoration: underline;
+}
+.line{
+    margin-top: 28px;
+     width: 80%;
+}
+.signup-button{
+    background-color:#2ecc71;
+    border:none;
+    border-radius: 7px;
+    width: 50%;
+    height: 60px;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-left: 25%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 120%;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+.signup-button:hover
+{
+    background-color: #16a085;
+}
+.business
+{
+    margin-top: 10%;
+    
+    text-align: left;
+}
+.newacc-link{
+    text-decoration: none;
+    color: white;
+}
